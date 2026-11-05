@@ -1,0 +1,13 @@
+date,product,region,quantity,unit_price
+2026-01-03,Laptop,Cairo,2,850
+2026-01-03, laptop ,cairo,1,850
+03/01/2026,Mouse,Alexandria,5,12.5
+2026-01-04,Keyboard,Giza,3,$25
+2026-01-04,Keyboard,Giza,3,$25
+2026-01-05,Monitor,Cairo,,180
+2026-01-06,Mouse,ALEXANDRIA,10,12.5
+2026-01-07,Laptop,Giza,1,850
+2026-02-01,Monitor,Cairo,2,180
+2026-02-02,Keyboard,Alexandria,4,25
+2026-02-03,Mouse,Cairo,abc,12.5
+2026-02-05,Laptop,Alexandria,3,"1,200"
